@@ -75,16 +75,19 @@ The dashboard helps analyze:
 # Dashboard Preview
 
 ## Sales Performance Dashboard
-[Page 1](<img width="1328" height="816" alt="Dashboard Page 1" src="https://github.com/user-attachments/assets/8cb002c7-4a6a-4128-b849-37e7c8c73a27" />
-)
+  (<img width="1328" height="816" alt="Dashboard Page 1" src="https://github.com/user-attachments/assets/4f18ba32-44a4-4dea-bc7a-3a7ee4f1c701" />)
+
+
 
 ## Product & Profitability Analysis
-[Page 2](<img width="887" height="750" alt="Page2" src="https://github.com/user-attachments/assets/9987cc54-5c86-4ab0-b879-55a6d725f96f" />
-)
+(<img width="887" height="750" alt="Page2" src="https://github.com/user-attachments/assets/71f868f2-cdb0-4fe7-945d-cd4f9d72ebc1" />)
+
+
 
 ## Regional & Customer Insights
-[Page 3](<img width="909" height="734" alt="Dashboard Page 3" src="https://github.com/user-attachments/assets/683fcc47-f61d-4918-8b45-c76d6eb5b7ae" />
-)
+(<img width="920" height="741" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/9a5b8900-642a-4e53-ba2c-01ee48415d09" />)
+
+
 
 # Author
 
