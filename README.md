@@ -6,6 +6,8 @@ An interactive Business Intelligence dashboard built using SQL and Power BI to a
 
 # Project Overview
 
+The dataset was first analyzed using SQL for querying and business analysis before building interactive dashboards in Power BI.
+
 This project focuses on transforming raw sales data into actionable business insights through data cleaning, SQL analysis, and interactive Power BI visualizations.
 
 The dashboard helps analyze:
@@ -69,6 +71,20 @@ The dashboard helps analyze:
 - `README.md` → Project documentation
 
 ---
+
+# Dashboard Preview
+
+## Sales Performance Dashboard
+[Page 1](<img width="1328" height="816" alt="Dashboard Page 1" src="https://github.com/user-attachments/assets/8cb002c7-4a6a-4128-b849-37e7c8c73a27" />
+)
+
+## Product & Profitability Analysis
+[Page 2](<img width="887" height="750" alt="Page2" src="https://github.com/user-attachments/assets/9987cc54-5c86-4ab0-b879-55a6d725f96f" />
+)
+
+## Regional & Customer Insights
+[Page 3](<img width="909" height="734" alt="Dashboard Page 3" src="https://github.com/user-attachments/assets/683fcc47-f61d-4918-8b45-c76d6eb5b7ae" />
+)
 
 # Author
 
